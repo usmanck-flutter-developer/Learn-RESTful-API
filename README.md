@@ -1,4 +1,4 @@
-# api_learning_by_doing
+# RESTful API Learning By Doing
 
 A new Flutter project.
 
